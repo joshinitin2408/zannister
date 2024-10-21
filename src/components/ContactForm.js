@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import ReCAPTCHA from "react-google-recaptcha";
+// import ReCAPTCHA from "react-google-recaptcha";
 
 const ContactForm = () => {
     const [userData, setUserData] = useState([])
@@ -62,16 +62,18 @@ const ContactForm = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="row">
+                    {/* <div className="row">
                         <ReCAPTCHA
                             sitekey="6LeSaCEoAAAAAEkdPfGy0us_6kTD3HNzAjVM3HI2"
                             name="captcha"
                             onChange={onChange}
                             className='mb-3'
                         />
-                    </div>
+                    </div> */}
                     <div className="text-center text-md-left">
-                        <button className="btn btn-primary" type="submit" disabled={!submitbtn}>Submit</button>
+                        <button className="btn btn-primary" type="submit"
+                        // disabled={!submitbtn}
+                        >Submit</button>
                     </div>
                 </form>
             </div>

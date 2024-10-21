@@ -3,7 +3,7 @@ import ContactForm from '../components/ContactForm';
 
 const ContactUs = () => {
     return (
-        <div className='d-flex justify-content-center my-2' >
+        <div className='d-flex justify-content-center my-2' style={{ height: '100vh' }}>
             <div className="container">
                 <div className="row">
                     <div className="col-lg-6 mb-4">
