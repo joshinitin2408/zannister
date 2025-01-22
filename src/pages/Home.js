@@ -2,16 +2,21 @@ import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import { FaRocket, FaLightbulb, FaChartLine, FaMapSigns, FaCogs, FaBox, FaShippingFast, FaSync } from 'react-icons/fa';
 import GCSBAN from "../assests/img/GCS-home-page-banner.png";
-
+import GCBAN1 from "../assests/img/new_bg.jpg"
 const Home = () => {
     return (
         <div>
             <div className="d-flex justify-content-center align-items-center px-2">
-                <h3 className='fst-italic text-secondary fw-bold'>
+                {/* <h3 className='fst-italic text-secondary fw-bold'>
                     Creating cutting-edge technological solutions that <br /> are both affordable and accessible to small and <br />medium-sized businesses.
+                </h3> */}
+                <h3 className='fst-italic text-secondary fw-bold'>
+                    Delivering innovative software solutions that <br /> empower businesses to scale and achieve <br />their digital transformation goals.
                 </h3>
+
                 <div className='px-4 leftSection'>
-                    <img className='sectionimage img-fluid' src={GCSBAN} alt="Home Banner" />
+                    <img className='sectionimage img-fluid' src={GCBAN1} alt="Home Banner" style={{ width: '30rem', marginTop: '1rem' }}
+                    />
                 </div>
             </div>
 
