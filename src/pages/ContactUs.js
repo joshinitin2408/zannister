@@ -14,7 +14,7 @@ const ContactUs = () => {
                                 Kasavanahalli,<br />
                                 Bangalore-560035<br /><br />
                                 Contact Number: +91 7829020210<br />
-                                Email: info@zannister-software.com
+                                Email: contact@zannister-software.com
                             </p>
                             <div>
                                 <iframe
