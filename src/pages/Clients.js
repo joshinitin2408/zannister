@@ -62,10 +62,10 @@ const projects = [
     },
     {
         name: 'Samshti',
-        description: `Samshti is a top CBSE school in Hyderabad, providing holistic education with a focus on culture, 
+        description: `Samshti is group of school, providing holistic education with a focus on culture, 
                   innovation, and overall student development on a 10-acre campus.`,
         moreInfo: 'More Info',
-        visit: 'https://samashti.in/',
+        visit: 'https://samashti-group.in/',
         image: samashti,
     },
     {

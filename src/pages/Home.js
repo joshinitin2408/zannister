@@ -25,19 +25,19 @@ const Home = () => {
                 <h2 className="text-center mb-3 fw-bold">Zannister Software Solutions</h2>
                 <Container className="fw-bold">
                     <p className="text-center">
-                        Zannister is an end-to-end IT solutions provider based out of Karnataka, India, delivering services to clients across the globe.
-                        We specialize in providing state-of-the-art solutions in custom application development, offshore software outsourcing services, quality management, and testing services.
+                        Zannister Software Solutions is the dedicated IT division of <strong>Adarsh Vidya Niketan Social Welfare & Education Society</strong> based out of Madhya Pradesh, India, delivering end-to-end technology solutions to clients across the globe.
+                        We specialize in <strong>custom application development, offshore software services, quality management, and testing solutions</strong>, ensuring excellence in every project.
                     </p>
                     <p className="text-center">
-                        Backed by strong quality processes and rich experience in managing global clients across various business verticals, we align our solutions to your business goals.
-                        Our strength lies in our team of software outsourcing professionals who form the building blocks of our organization. Coming from various backgrounds, they expand and add to the creative potential of Zannister.
+                        Backed by strong quality processes and extensive experience in managing global clients across various business verticals, we align our solutions with business goals.
+                        As an integral technology wing of the society, our team of highly skilled professionals forms the backbone of Zannister, driving innovation and digital transformation.
                     </p>
                     <p className="text-center">
-                        Our expertise embraces a wide range of custom programming skills involving the latest and most effective development technologies.
-                        We have been able to provide a strategic blend of resources, processes, and technical expertise to become fully aligned with client business strategies and goals.
+                        Our expertise spans a wide range of modern development technologies, allowing us to provide a <strong>strategic blend of resources, processes, and technical proficiency</strong>.
+                        By leveraging cutting-edge tools and methodologies, we ensure that our solutions are fully aligned with client business strategies.
                     </p>
                     <p className="text-center">
-                        If you are looking for a one-stop solution for all your technical requirements and for a business partner who can align with your business strategy while minimizing your investments in technology, your search ends here!
+                        If you are looking for a trusted technology partner that integrates IT solutions with your business vision while optimizing technology investments, <strong>Zannister Software Solutions is your ideal choice!</strong>
                     </p>
                 </Container>
                 <h4 className="text-center fw-bold">

@@ -10,7 +10,7 @@ const Navb = () => {
     return (
         <Navbar expand="lg" className="bg-body-tertiary">
             <Container className='fw-bold'>
-                <Navbar.Brand as={Link} to="/">
+                <Navbar.Brand as={Link} to="/" className='text-secondary'>
                     <img
                         alt=""
                         src={logo}

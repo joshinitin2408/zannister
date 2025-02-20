@@ -7,7 +7,7 @@ const Methods = () => {
         <Container className="fw-bold my-2">
             <h2 className="text-center mb-3 fw-bold">An Insight</h2>
             <p className="text-center mb-4">
-                Zannister Software Solutions, is an Information Technology Solutions provider operating from Karnataka, India. The company is currently providing solutions to companies in the Finance industry, Education, Retail, and Construction Industries. Our core competency includes custom application development with utmost product quality. Zannister provides solutions that are faster, better, and cost-effective. High quality of service, customer focus, and transparent project management are the key areas of emphasis in Zannister.
+                Zannister Software Solutions, is an Information Technology Solutions provider operating from Madhya Pradesh, India. The company is currently providing solutions to companies in the Finance industry, Education, Retail, and Construction Industries. Our core competency includes custom application development with utmost product quality. Zannister provides solutions that are faster, better, and cost-effective. High quality of service, customer focus, and transparent project management are the key areas of emphasis in Zannister.
             </p>
             {/* 
             <h3 className="text-center mb-4 fw-bold">Clients</h3>
