@@ -1,8 +1,9 @@
 import React from 'react';
 import { Container, Row, Col, Card } from 'react-bootstrap';
 import { FaRocket, FaLightbulb, FaChartLine, FaMapSigns, FaCogs, FaBox, FaShippingFast, FaSync } from 'react-icons/fa';
-import GCSBAN from "../assests/img/GCS-home-page-banner.png";
-import GCBAN1 from "../assests/img/new_bg.jpg"
+// import GCSBAN from "../assests/img/GCS-home-page-banner.png";
+// import GCBAN1 from "../assests/img/new_bg.jpg"
+import Fron from "../assests/img/Fron.webp"
 const Home = () => {
     return (
         <div>
@@ -15,7 +16,7 @@ const Home = () => {
                 </h3>
 
                 <div className='px-4 leftSection'>
-                    <img className='sectionimage img-fluid' src={GCBAN1} alt="Home Banner" style={{ width: '30rem', marginTop: '1rem' }}
+                    <img className='sectionimage img-fluid' src={Fron} alt="Home Banner" style={{ width: '30rem', marginTop: '1rem' }}
                     />
                 </div>
             </div>
