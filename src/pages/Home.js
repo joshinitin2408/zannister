@@ -26,7 +26,7 @@ const Home = () => {
                 <h2 className="text-center mb-3 fw-bold">Zannister Software Solutions</h2>
                 <Container className="fw-bold">
                     <p className="text-center">
-                        Zannister Software Solutions is the dedicated IT division of <strong>Adarsh Vidya Niketan Social Welfare & Education Society</strong> based out of Madhya Pradesh, India, delivering end-to-end technology solutions to clients across the globe.
+                        Zannister Software Solutions is the dedicated IT division of <strong>Adarsh Vidya Niketan Social Welfare & Educational Society</strong> based out of Madhya Pradesh, India, delivering end-to-end technology solutions to clients across the globe.
                         We specialize in <strong>custom application development, offshore software services, quality management, and testing solutions</strong>, ensuring excellence in every project.
                     </p>
                     <p className="text-center">
